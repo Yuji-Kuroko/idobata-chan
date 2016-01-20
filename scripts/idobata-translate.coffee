@@ -2,6 +2,8 @@ validLangs =
   ja: '日本語'
   en: '英語'
   vi: 'ベトナム語'
+  zh: '中国語(繁体字)'
+  zh_s: '中国語(簡体字)'
 
 # <言語名>translateComments <翻訳結果>
 translateComments = [
